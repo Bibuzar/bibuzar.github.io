@@ -1,7 +1,6 @@
 ## Conditions générales d'utilisation et règles de confidentialité
 
-Les présentes conditions générales d'utilisation (dites « CGU ») ont pour objet l'encadrement juridique des modalités de mise à disposition de l'Application et des
-services et de définir les conditions d’accès et d’utilisation des services par « l'Utilisateur ». Les modalité d'utilisation des données collectées est également précisé. Toute inscription ou utilisation de l'Application implique l'acceptation sans aucune réserve ni restriction des présentes CGU par l’utilisateur.
+Les présentes conditions générales d'utilisation (dites « CGU ») er régles de confidentialité ont pour objet l'encadrement juridique des modalités de mise à disposition de l'Application et des services et de définir les conditions d’accès et d’utilisation des services par « l'Utilisateur ». Les modalité d'utilisation des données collectées sont également précisé. Toute inscription ou utilisation de l'Application implique l'acceptation sans aucune réserve ni restriction des présentes CGU par l’utilisateur.
 
 ### ARTICLE 1 : LES MENTIONS LÉGALES
 L’édition et la direction de la publication des applications publiées sur le compte google paly Bibuzar est assurée par Bibuzar. Adresse e-mail bibuzar@gmail.com.
